@@ -27,3 +27,7 @@ An AI-powered agent built with Python, Streamlit, LangChain, LangGraph, and Groq
 | **Multi-step reasoning** | No | Yes — plans and executes across steps |
 | **Example** | "What is 2+2?" → "4" | "What is 2+2?" → uses calculator tool → "4" |
 | **This project** | — | Uses ReAct loop to decide when and which tool to call |
+
+Ai agent demo:
+
+<img width="1267" height="1468" alt="image" src="https://github.com/user-attachments/assets/cdd98172-4a27-4425-a700-037d9a22555a" />
